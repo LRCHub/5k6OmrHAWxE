@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スロー・ハンズ",
+  "base_artist": "Niall Horan",
+  "createdAt": "2026-03-28T10:42:25.208928Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slow Hands",
+      "artist": "Niall Horan",
+      "has_synced": false,
+      "path": "select/pl_01_Slow_Hands_Niall_Horan.txt"
+    }
+  ]
+}
